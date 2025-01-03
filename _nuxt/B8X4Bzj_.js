@@ -1,0 +1,1 @@
+import{_ as e,c,o as t}from"./Ctal9wcu.js";const n={},o={class:"flex flex-wrap justify-content w-full"};function s(r,_){return t(),c("div",o," 대시보드 ")}const f=e(n,[["render",s]]);export{f as default};
