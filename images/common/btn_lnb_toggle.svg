@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <g id="btn_접기" transform="translate(-266 -18)">
+    <path id="패스_1504329" data-name="패스 1504329" d="M16,2c9.021,0,14,4.979,14,14S25.021,30,16,30,2,25.021,2,16,6.979,2,16,2Z" transform="translate(264 16)" fill="#fff"/>
+    <g id="그룹_103721" data-name="그룹 103721" transform="translate(-0.005 -0.5)">
+      <path id="패스_1504327" data-name="패스 1504327" d="M274.834,27.1v4h4" transform="translate(100.661 -184.001) rotate(45)" fill="none" stroke="#000" stroke-width="1.5"/>
+      <path id="패스_1504328" data-name="패스 1504328" d="M0,4V0H4" transform="translate(287.077 32.328) rotate(135)" fill="none" stroke="#000" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>
