@@ -1,0 +1,1 @@
+import{_ as o}from"./DlAUqK2U.js";import{c as s,a as t,o as r}from"./CFzyka6H.js";const a={};function n(c,e){return r(),s("div",null,e[0]||(e[0]=[t("h2",{class:"text-2xl font-bold"},"VUE Page",-1),t("p",null,"This is the VUE Page!",-1)]))}const i=o(a,[["render",n]]);export{i as default};

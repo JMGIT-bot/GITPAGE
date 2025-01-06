@@ -1,0 +1,1 @@
+import{_ as o}from"./DlAUqK2U.js";import{c as a,a as t,o as s}from"./CFzyka6H.js";const r={};function n(c,e){return s(),a("div",null,e[0]||(e[0]=[t("h2",{class:"text-2xl font-bold"},"JAVA Page",-1),t("p",null,"This is the JAVA Page!",-1)]))}const i=o(r,[["render",n]]);export{i as default};
