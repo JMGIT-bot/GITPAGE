@@ -1,1 +1,0 @@
-import{_ as o}from"./DlAUqK2U.js";import{c as s,a as t,o as r}from"./BJs19oJx.js";const a={};function n(l,e){return r(),s("div",null,e[0]||(e[0]=[t("h2",{class:"text-2xl font-bold"},"ELSE Page",-1),t("p",null,"This is the ELSE Page!",-1)]))}const _=o(a,[["render",n]]);export{_ as default};

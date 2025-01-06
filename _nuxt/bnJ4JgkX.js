@@ -1,1 +1,0 @@
-import{_ as o}from"./DlAUqK2U.js";import{c as r,a as t,o as s}from"./CFzyka6H.js";const a={};function n(c,e){return s(),r("div",null,e[0]||(e[0]=[t("h2",{class:"text-2xl font-bold"},"REACT Page",-1),t("p",null,"This is the REACT Page!",-1)]))}const i=o(a,[["render",n]]);export{i as default};

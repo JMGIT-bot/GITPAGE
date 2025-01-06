@@ -1,1 +1,0 @@
-import{_ as e}from"./DlAUqK2U.js";import{v as t,t as c}from"./_QM4B7cb.js";const o={},n={class:"flex flex-wrap justify-content w-full"};function r(s,f){return c(),t("div",n," 대시보드 ")}const l=e(o,[["render",r]]);export{l as default};

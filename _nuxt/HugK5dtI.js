@@ -1,1 +1,0 @@
-import{d as e,o as t,m as n,t as o,v as a}from"./_QM4B7cb.js";const s={class:"flex flex-wrap justify-content w-full"},f=e({__name:"index",setup(c){return t(()=>{n("/")}),(r,_)=>(o(),a("div",s))}});export{f as default};

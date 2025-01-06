@@ -1,1 +1,0 @@
-import{m as e,n,p as o,o as t,c as a}from"./Ctal9wcu.js";const s={class:"flex flex-wrap justify-content w-full"},p=e({__name:"index",setup(c){return n(()=>{o("/dashboard")}),(r,_)=>(t(),a("div",s))}});export{p as default};
